@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CameraProject.slnx/FileContentIndex
+/.vs/CameraProject.slnx/DesignTimeBuild
+/.vs/CameraProject.slnx/v18
+/.vs/ProjectEvaluation
