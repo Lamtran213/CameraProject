@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "DanepeeY4wc=",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\SEP490\\CameraProject\\CameraProject\\CameraProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.23.0\\microsoft.ml.onnxruntime.1.23.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.23.0\\microsoft.ml.onnxruntime.managed.1.23.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.5\\microsoft.win32.systemevents.10.0.5.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\opencvsharp4\\4.13.0.20260330\\opencvsharp4.4.13.0.20260330.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260302\\opencvsharp4.runtime.win.4.13.0.20260302.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.13.0.20260330\\opencvsharp4.wpfextensions.4.13.0.20260330.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.drawing.common\\10.0.5\\system.drawing.common.10.0.5.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\yolodotnet\\4.2.0\\yolodotnet.4.2.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\yolodotnet.executionprovider.cpu\\1.1.0\\yolodotnet.executionprovider.cpu.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
