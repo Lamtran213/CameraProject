@@ -53,3 +53,8 @@ D:\Coding\SEP490\CameraProject\CameraProject\bin\Debug\net8.0-windows\runtimes\w
 D:\Coding\SEP490\CameraProject\CameraProject\obj\Debug\net8.0-windows\CameraPr.E3EABE5D.Up2Date
 D:\Coding\SEP490\CameraProject\CameraProject\obj\Debug\net8.0-windows\CameraProject.genruntimeconfig.cache
 D:\Coding\SEP490\CameraProject\CameraProject\obj\Debug\net8.0-windows\ref\CameraProject.dll
+D:\Coding\SEP490\CameraProject\CameraProject\obj\Debug\net8.0-windows\CameraProject.sourcelink.json
+D:\Coding\SEP490\CameraProject\CameraProject\bin\Debug\net8.0-windows\python\pose_worker.py
+D:\Coding\SEP490\CameraProject\CameraProject\bin\Debug\net8.0-windows\python\requirements.txt
+D:\Coding\SEP490\CameraProject\CameraProject\bin\Debug\net8.0-windows\yolov8n-pose.onnx
+D:\Coding\SEP490\CameraProject\CameraProject\bin\Debug\net8.0-windows\yolov8n-pose.pt

@@ -1,8 +1,31 @@
 <Window x:Class="CameraProject.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Dahua Camera" Height="450" Width="800">
-    <Grid Background="Black">
-        <Image x:Name="CameraImage" Stretch="Uniform" />
-    </Grid>
+        Title="Dahua Camera - YOLOv8 Pose" Height="560" Width="980"
+        MinHeight="420" MinWidth="720">
+    <DockPanel Background="#121212">
+        <Border DockPanel.Dock="Top" Background="#1F1F1F" Padding="10,8">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Text="Trang thai: " Foreground="#F0F0F0" FontWeight="SemiBold" />
+                    <TextBlock x:Name="StatusText" Text="Khoi dong..." Foreground="#8FD14F" FontWeight="SemiBold" />
+                </StackPanel>
+
+                <TextBlock Grid.Column="1"
+                           x:Name="PoseHintText"
+                           Text="Nhan dien: dung | ngoi | te | nga"
+                           Foreground="#CFCFCF"
+                           VerticalAlignment="Center" />
+            </Grid>
+        </Border>
+
+        <Grid Background="Black">
+            <Image x:Name="CameraImage" Stretch="Uniform" />
+        </Grid>
+    </DockPanel>
 </Window>

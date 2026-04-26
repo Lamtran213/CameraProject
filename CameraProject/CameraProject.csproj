@@ -16,4 +16,16 @@
     <PackageReference Include="YoloDotNet.ExecutionProvider.Cpu" Version="1.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="yolov8n-pose.onnx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="yolov8n-pose.pt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="python\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
